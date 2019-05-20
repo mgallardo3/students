@@ -1,0 +1,12 @@
+{
+  "name" : "/328/students",
+  "authors" : [
+    {
+      "name": "Carmen Gallardo",
+      "email":"mgallardo3@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
